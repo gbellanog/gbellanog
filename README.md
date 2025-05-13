@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌟 | Olá, sou Gabriella Nogueira de Queiroz!<br><br>💻 | Desenvolvedora em formação.<br>📚 | Atualmente, estou cursando o 3º ano do Técnico em Desenvolvimento de Sistemas na EEP Maria Célia Pinheiro Falcão, onde venho aprimorando minhas habilidades em lógica de programação, desenvolvimento web e software.<br><br>✨ | O que me motiva?<br><br>↳ Transformar ideias em código e criar soluções.<br>↳ Aprender novas tecnologias.<br>↳ Explorar desafios que me façam crescer como desenvolvedora.<br><br>📌 | Mais afinidade com desenvolvimento front-end, com foco em HTML5, CSS3 E JavaScript<br>📫 | gabriellanogueiratrabalho@gmail.com</p>
+<p align="left">🌟 | Olá, sou Gabriella Nogueira de Queiroz!<br><br>💻 | Desenvolvedora em formação.<br>📚 | Atualmente, estou cursando o 3º ano do Técnico em Desenvolvimento de Sistemas na EEP Maria Célia Pinheiro Falcão, onde venho aprimorando minhas habilidades em lógica de programação, desenvolvimento web e software.<br><br>✨ | O que me motiva?<br><br>↳ Transformar ideias em código e criar soluções.<br>↳ Aprender novas tecnologias.<br>↳ Explorar desafios que me façam crescer como desenvolvedora.<br><br>📌 | Mais afinidade com desenvolvimento front-end, com foco em HTML5, CSS3 E JavaScript<br><br>📫 | gabriellanogueiratrabalho@gmail.com</p>
 
 ###
 
